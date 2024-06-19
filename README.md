@@ -34,3 +34,25 @@ In addition to the tags, we will also learn about some common HTML attributes. B
 - `<input id="username">`
 
 Attributes provide additional information about HTML elements and help in defining their behavior and appearance.
+
+## Step 3: Adding CSS
+
+To enhance the visual appearance of our Zerodha website, we will learn to add CSS (Cascading Style Sheets) to our page. Below are some common CSS properties we will study and use:
+
+### Common CSS Properties
+
+- `color`: Sets the color of the text.
+- `background`: Sets the background color or image of an element.
+- `border-radius`: Defines the radius of the element's corners.
+- `border`: Sets the border around an element.
+- `padding`: Defines the space between the element content and its border.
+- `margin`: Defines the space outside the element's border.
+- `box-shadow`: Adds shadow effects around an element.
+- `text-align`: Aligns the text within an element.
+- `font-size`: Sets the size of the text.
+- `font-family`: Sets the font family of the text.
+- `display`: Sets the display type of an element (e.g., block, inline, inline)
+- `flexbox`: Used for creating responsive layouts.
+- `grid`: Used for creating responsive layouts.
+- `position`: Sets the position of an element (e.g., relative, absolute, fixed)
+- `z-index`: Sets the stack order of an element.
